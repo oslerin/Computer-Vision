@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-### I AM USING OPENCV 3.0 ###
+### This program takes in an image of a street sign (either a speed limit sign or a stop sign) and identifies the type of sign. ###
 
 #function to write on image
 def write_on_image(image, text):
